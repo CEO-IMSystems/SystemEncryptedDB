@@ -1,4 +1,4 @@
 ServerStatus("Online")
 PatchID("Patch-1.00")
 ForceUpdate("true")
-UpdateURL("")
+UpdateURL("https://noinfo")
